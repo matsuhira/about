@@ -54,7 +54,7 @@ https://www.ssken.gr.jp/MAINSITE/download/wg_report/net-sec/ipv6/index.html<br>
  https://www.janog.gr.jp/meeting/janog33.5/doc/janog33.5_fragmentation.pdf<br>
  https://www.janog.gr.jp/meeting/janog33.5/index.html
  
-#### 2014/2/27 : 電子情報通信学会研究会 @ 石川県加賀市
+#### 2014/2/27 : 電子情報通信学会研究会 @ 石川県加賀市 山代温泉 瑠璃光
 * SA46T/SA46T-AS のクライアント環境への適用に関する一検討 (インターネットアーキテクチャ)<br>
 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113(443), 153-158, 2014-02-2<br>
 https://ci.nii.ac.jp/naid/110009837556<br>
