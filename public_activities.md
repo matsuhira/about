@@ -81,6 +81,13 @@ https://www.nict.go.jp/press/2013/12/11-1.html
 * IPv4アドレス枯渇問題を解決する技術の大規模実証実験に成功<br>
 https://pr.fujitsu.com/jp/news/2013/12/11.html
 
+#### 2013/10: IC2013 (Internet Conference 2013) @ 慶應義塾大学三田キャンパス
+* SA46T-AT: SA46T アドレスを用いた IPv4-IPv6 変換技術<br>
+松平直樹， 上野幸杜， 堀場勝広， 中村修<br>
+インターネットコンファレンス論文集, 51-60 <br>
+https://www.internetconference.org/ic2013/PDF/ic2013-paper04.pdf
+
+
 #### 2013/9/5: ISOC-JP ITEF報告会
 * IETF報告会(87thベルリン) IPv6関連<br>
 https://www.isoc.jp/materials/20130905/20130905_ipv6.pdf 
@@ -121,11 +128,6 @@ https://www.ietf.org/proceedings/86/slides/slides-86-behave-5.pdf
 * Stateless automatic IPv4 over IPv6 Encapsulation / Decapsulation Technology (SA46T)<br>
 https://www.apricot.net/apricot2013/assets/sa46t-apricot2013_13629346921.pdf 
  
-#### 2013/10: IC2013 (Internet Conference 2013) @ 慶應義塾大学三田キャンパス
-* SA46T-AT: SA46T アドレスを用いた IPv4-IPv6 変換技術<br>
-松平直樹， 上野幸杜， 堀場勝広， 中村修<br>
-インターネットコンファレンス論文集, 51-60 <br>
-https://www.internetconference.org/ic2013/PDF/ic2013-paper04.pdf
  
 #### 2012/12/21: ISOC-JP IETF報告会
 * ISOC-JP IETF 報告会 - IETF85@アトランタ - IPv6関連<br>
@@ -170,7 +172,7 @@ https://www.nic.ad.jp/ja/mailmagazine/backnumber/2012/vol963.html
 * SA46T interoperability test report<br>
  https://www.ietf.org/proceedings/83/slides/slides-83-softwire-14.pdf 
  
-#### 2011/2: NICT JGN trial
+#### 2012/2: NICT JGN trial
 * 複数の新世代技術を活用した「多層仮想化ネットワーク」による 国内外複数拠点への同時放送配信・運用実験に成功<br>
 https://www.nict.go.jp/press/2012/02/08-2.html
 * さっぽろ雪まつり2012 - 総合テストベッド - NiCT<br>
@@ -215,7 +217,7 @@ https://www.fujitsu.com/jp/group/fct/resources/news/press-releases/2011/0603.htm
 #### 2011/3: 80th IETF Prague
 
 
-#### 2012/2: NICT JGNplus trial
+#### 2011/2: NICT JGNplus trial
 * 複数の新世代のネットワーク技術の同時運用による放送配信実験開始<br>
 https://www.nict.go.jp/press/2011/02/07-1.html
 * NICT、複数の新世代ネットワーク技術を同時実験……さっぽろ雪まつりの3Dライブ映像を同時配信<br>
