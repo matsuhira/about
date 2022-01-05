@@ -18,7 +18,7 @@
 * Multi-Stage Transparent Server Load Balancing<br>
  https://datatracker.ietf.org/doc/draft-matsuhira-mslb
  
-#### 2016/8/6: I-D M46 initial submit
+#### 2016/2/3: I-D M46 initial submit
 * Multiple IPv4 - IPv6 mapped IPv6 address (M46A)<br>
  https://datatracker.ietf.org/doc/draft-matsuhira-m46a
  * Multiple IPv4 - IPv6 address mapping encapsulation - fixed prefix (M46E-FP)<br>
