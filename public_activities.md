@@ -259,7 +259,7 @@ https://tools.ietf.org/agenda/77/slides/v6ops-6.pdf
 https://ascii.jp/elem/000/000/350/350513/<br>
 http://www.wide.ad.jp/news/press/20051107-KAME-j.html
 
-#### 2005: 電子情報通信学会
+#### 2005/10/28: 電子情報通信学会
 * IPv6 only での運用を可能とするバックボーンネットワーク構築技術<br>
 情報処理学会研究報告インターネットと運用技術 (IOT) 2005 (106 (2005-QAI-017)), 1-5 <br>
 https://ci.nii.ac.jp/naid/110003496775<br>
@@ -277,7 +277,7 @@ https://warp.ndl.go.jp/info:ndljp/pid/283520/www.soumu.go.jp/s-news/2002/020807_
 「IETF横浜会議」のホスト/スポンサーとして、さらなるインターネットの進化に貢献<br>
 https://pr.fujitsu.com/jp/news/2002/06/13-1.html
 
-#### 2002//5: IAjapan Reciew
+#### 2002/5: IAjapan Reciew
 * アジア初IETF横浜会議に向けて
 
 #### 2002/4/23: インターネット技術シンポジウム 2002 @ 笹川記念会館　国際会議場
