@@ -5,10 +5,12 @@
 * SA46T/SA46T-AS のクライアント環境への適用に関する一検討 (インターネットアーキテクチャ)<br>
 電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113(443), 153-158, 2014-02-2<br>
 https://ci.nii.ac.jp/naid/110009837556<br>
+* SA46T/SA46T-ASのクライアント環境への適用に関する一検討 (技術と社会・倫理)<br>
+電子情報通信学会技術研究報告 = IEICE technical report : 信学技報 113(442), 153-158, 2014-02-27<br>
 https://ci.nii.ac.jp/naid/110009837602<br>
-https://www.ieice.org/ken/program/index.php?tgs_regid=90f70a7965cea7d3050813bd88ff88784805e6b3e47bb41f0fcbd9fee1a1d8b0&tgid=IPSJ-IOT
 * SA46T/SA46T-AS のクライアント環境への適用に関する一検討<br>
 研究報告インターネットと運用技術 (IOT) 2014 (27), 1-6 <br>
+https://www.ieice.org/ken/program/index.php?tgs_regid=90f70a7965cea7d3050813bd88ff88784805e6b3e47bb41f0fcbd9fee1a1d8b0&tgid=IPSJ-IOT
 
 #### 2013/12/12-13: IOTS2013: Internet and Operation Technology Symposium 2013 @ 広島大学
 * SA46T-AS の StarBED 環境での大規模実証実験<br>
