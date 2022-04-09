@@ -1,5 +1,5 @@
 
-### public avtivities
+### public activities
 
 
 #### 2017/12/20: JPNIC Newsletter
