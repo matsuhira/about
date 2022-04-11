@@ -190,7 +190,7 @@ http://arkko.com/softwire/20110925-ietf-softwire-interim-beijing-sa46t.pdf
 * SA46T Multicast Support<br>
  https://datatracker.ietf.org/doc/draft-matsuhira-sa46t-mcast
  
-#### 2011/8/25 - 2013/3/31: 情報通信研究機構(NICT) テストベッド研究開発推進センター特別研究員
+#### 2011/9/9 - 2013/3/31: 情報通信研究機構(NICT) テストベッド研究開発推進センター特別研究員
 
 #### 2011/7: 81st IETF Quebec
 * Motivation for developing SA46T<br>
