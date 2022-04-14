@@ -88,7 +88,7 @@ https://pr.fujitsu.com/jp/news/2013/12/11.html
 https://www.internetconference.org/ic2013/PDF/ic2013-paper04.pdf
 
 
-#### 2013/9/5: ISOC-JP ITEF報告会
+#### 2013/9/5: ISOC-JP IETF報告会
 * IETF報告会(87thベルリン) IPv6関連<br>
 https://www.isoc.jp/materials/20130905/20130905_ipv6.pdf 
 
