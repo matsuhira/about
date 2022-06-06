@@ -132,7 +132,8 @@ https://www.apricot.net/apricot2013/assets/sa46t-apricot2013_13629346921.pdf
  
 #### 2012/12/21: ISOC-JP IETF報告会
 * ISOC-JP IETF 報告会 - IETF85@アトランタ - IPv6関連<br>
-https://www.isoc.jp/materials/20121221/20121221-ipv6.pdf  
+https://www.isoc.jp/materials/20121221/20121221-ipv6.pdf<br>
+https://www-old.isoc.jp/materials/20121221/20121221-ipv6.pdf<br>
  
 #### 2012/11/16: IC2012: Internet Conference 2012 @ 富山国際会議場
 * SA46T: IPv4 アドレス枯渇後のIPv6移行とIPv4継続利用を両立するカプセル化技術<br>
