@@ -248,7 +248,8 @@ https://www.slideshare.net/naokimatsuhira/sa46t <br>
  
 #### 2010/3 : 77th IETF Anaheim
 * Stateless automatic IPv4 over IPv6 Tunneling (SA46T)<br>
-https://tools.ietf.org/agenda/77/slides/v6ops-6.pdf 
+https://tools.ietf.org/agenda/77/slides/v6ops-6.pdf<br>
+https://www.ietf.org/proceedings/77/slides/v6ops-6.pdf
  
 #### 2010/2/2: I-D SA46T initial submit
 * Stateless Automatic IPv4 over IPv6 Tunneling: Specification<br>
