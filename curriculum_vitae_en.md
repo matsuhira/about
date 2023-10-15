@@ -77,9 +77,9 @@ As the person in charge of IPv6 development promotion, expanded the range of wor
 * In addition, technical studies and specification formulation for L2TP, VoIP, VPN, WAP Forum, 3GPP ALL-IP, etc.
 
 [Accomplishments/Evaluation]
-*Published ``IPv6 Practical Network Construction Techniques'' by Ohmsha (planned and supervised writing), Korean translated version published
-*A letter of appreciation was presented to the president from the Next Generation Ultra High Speed Network Promotion Council (for construction and operation of IPv6 services at JGN)
-*Received the Director's Award for business promotion and business negotiation acquisition system development using Extranet.
+* Published ``IPv6 Practical Network Construction Techniques'' by Ohmsha (planned and supervised writing), Korean translated version published
+* A letter of appreciation was presented to the president from the Next Generation Ultra High Speed Network Promotion Council (for construction and operation of IPv6 services at JGN)
+* Received the Director's Award for business promotion and business negotiation acquisition system development using Extranet.
 * Members of IPv6 Working Group, Internet Infrastructure Committee, Information and Communications Policy Subcommittee, Information and Communications Council, Ministry of Internal Affairs and Communications, contributed to the ``Second Interim Report on ``What Internet Policy Should Be in the 21st Century''''
 * Awarded the Minister of Internal Affairs and Communications Award for Companies Contributing to the Promotion of Information Technology in the KAME Project
 *Keio University presented Fujitsu with a letter of appreciation for KAME project.
