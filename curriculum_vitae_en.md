@@ -1,15 +1,15 @@
 # Curriculum vitae
 
 ## Job summary
-We have been consistently involved in data networks, and have been involved in Internet-related work since its dawn.
-After joining the company, he was involved in product development of LAN/WAN products and research and prototyping of intersystem connection mechanisms, and then became independent as a research group focusing on TCP/IP.
+I have been consistently involved in data networks, and have been involved in Internet-related work since its dawn.
+After joining the company, I was involved in product development of LAN/WAN products and research prototyping of intersystem connection mechanisms, and then became independent as a research group focusing on TCP/IP.
 After being involved in promoting IPv6 development in the router development department, I was involved in new business development and cloud networks.
-After developing new business, he proposed three technologies that he devised and patented (MSLB: load balancing technology, M46/SA46T: IPv6 transition technology, ME6: cloud-related technology) to the Internet standardization organization IETF. We worked on new business development while being conscious of the technology development process.
-After that, I opened Net Procedure Giken as a private business and am active there.
+After developing new business, I proposed three technologies that I devised and patented (MSLB: load balancing technology, M46/SA46T: IPv6 transition technology, ME6: cloud-related technology) to the Internet standardization organization IETF. I worked on new business development while being conscious of the technology development process.
+After that, I opened Network Protocol Technologies Laboratory(neptela) as a private business and am active there.
 
 ## Job career
 
-### October 2022 ~ Present: Net Procedure Giken (Personal Business)
+### October 2022 ~ Present: Network Protocol Technologies Laboratories(neptela) (Personal Business)
 * NICT Beyond 5G R&D Promotion Project Standardization Advisor (June 2022 to present)
 
 ### April 1986 - March 2022 Fujitsu Limited/Fujitsu Laboratories Ltd.
@@ -46,14 +46,14 @@ Patent application for 5 types of IPv4 to IPv6 transition technology, standardiz
 [Accomplishments/Evaluation]
 * Received the Best of Show Award Grand Prix at Interop Tokyo 2011, Best of Show Award at Interop Tokyo 2012 and 2013
 * Received the 20th Interop Tokyo commemorative award (individual)
-*Won the Director's Award for "promoting the development and commercialization of his SA46T technology as an IPv6 transition solution"
+* Won the Director's Award for "promoting the development and commercialization of SA46T technology as an IPv6 transition solution"
 * Received the Encouragement Award for “SA46T Standardization Activities and Developing Intellectual Property Strategies Suitable for Supporting Open Business”
 * Special Researcher, National Institute of Information and Communications Technology (NICT) Testbed Research and Development Promotion Center
 * PPE (Professional Product Engineer) Architect
 
 #### April 2007 ~ December 2009: Fujitsu Network Service Business Unit/Cloud Service Integration Office
 In charge of new business consideration, devised general-purpose load balancing technology
-* Participated in and supported his IMS/SIPv6 reference code development project in industry and academia.
+* Participated in and supported IMS/SIPv6 reference code development project in industry and academia.
 * Devised a general-purpose load balancing technology (MSLB) that does not depend on applications, filed a patent application, led software prototyping, proposed IETF standardization
 
 [Accomplishments/Evaluation]
@@ -72,21 +72,21 @@ Project proposals and architecture education for converting from hardware-center
 As the person in charge of IPv6 development promotion, expanded the range of work such as support for Internet communities such as IETF, WIDE project, Interop, JANOG, etc., actively promoted promotion, and expanded personal networks both inside and outside the company.
 * Promoting IPv6 development: Promoting the creation of IPv6 Fujitsu specifications, supporting Interop Tokyo, promoting participation in interconnection tests, contributing to technical magazine FUJITSU, promoting internal IPv6 network construction, in-house training instructor, promoting the introduction of JGN for routers, servers and supercomputers, etc. Support for his IPv6 support for products from other departments
 * Attended IETF standardization meetings, grasped standardization trends, hosted in-house reporting sessions, and sponsored the 54th IETF Yokohama Conference, the first in Asia.
-* In charge of operating his IPv6 reference code development project (KAME project) led by industry and academia led by the WIDE project
+* In charge of operating IPv6 reference code development project (KAME project) led by industry and academia led by the WIDE project
 * Examining extranet specifications, promoting router development, handling business negotiations (orders), system development, SE support
 * In addition, technical studies and specification formulation for L2TP, VoIP, VPN, WAP Forum, 3GPP ALL-IP, etc.
 
 [Accomplishments/Evaluation]
 *Published ``IPv6 Practical Network Construction Techniques'' by Ohmsha (planned and supervised writing), Korean translated version published
-*A letter of appreciation was presented to the president from the Next Generation Ultra High Speed Network Promotion Council (for his construction and operation of IPv6 services at JGN)
+*A letter of appreciation was presented to the president from the Next Generation Ultra High Speed Network Promotion Council (for construction and operation of IPv6 services at JGN)
 *Received the Director's Award for business promotion and business negotiation acquisition system development using Extranet.
 * Members of IPv6 Working Group, Internet Infrastructure Committee, Information and Communications Policy Subcommittee, Information and Communications Council, Ministry of Internal Affairs and Communications, contributed to the ``Second Interim Report on ``What Internet Policy Should Be in the 21st Century''''
 * Awarded the Minister of Internal Affairs and Communications Award for Companies Contributing to the Promotion of Information Technology in the KAME Project
-*Keio University presented Fujitsu with a letter of appreciation for his KAME project.
+*Keio University presented Fujitsu with a letter of appreciation for KAME project.
 * Received the President's Award for ``Success in developing the de facto standard for the next generation Internet protocol IPv6''
 
 #### April 1992 - March 1996: Fujitsu Laboratories  Optical Networking Systems Lab/Computer Network Systems Lab
-We established ourselves as an independent research group focused on TCP/IP, conducted research on early Internet technology, acquired knowledge and information that was not available within the company through self-study, and solidified the foundations of the Internet era.
+I established ourselves as an independent research group focused on TCP/IP, conducted research on early Internet technology, acquired knowledge and information that was not available within the company through self-study, and solidified the foundations of the Internet era.
 * TCP/IP investigation, investigation and organization of his Internet-related information, dissemination of information on web server
 * Information Processing Interoperability Technology Association (INTAP) Ultra-high-speed network and distributed processing technology trend survey working group member
 * DHCP, NAT technical research and specification review, Fujitsu router specification formulation, Fujitsu router specification creation procedure
@@ -111,11 +111,11 @@ As a member of the development team, I was responsible for understanding compute
 #### Internet standardization (IETF) activities: Understanding standardization trends and standardization proposal activities
 ・Attended IETF conferences 64 times (22 years from 1995), number of standardization proposals: 18, number of conference presentations: 10, internal reporting sessions for 12 years, information processing society journal commentary
 #### Data network related technology/Internet related technology
-・His LAN/WAN technology such as Ethernet, IPv6 and his KAME project, VoIP and 3GPP technology, cloud network configuration technology
+・ LAN/WAN technology such as Ethernet, IPv6 and KAME project, VoIP and 3GPP technology, cloud network configuration technology
 #### Patent application
-・Total number of applications: 94 (PCT7, Japan 38, US 11, EPO 10, UK 9, Germany 9, France 9, Central Japan 1), of which 52 were approved (Japan 9, US 10, EPO 8, UK 8, Germany 8, France 8) ,Middle 1)
+・Total number of applications: 94 (PCT 7, Japan 38, US 11, EPO 10, UK 9, Germany 9, France 9, Central Japan 1), of which 52 were approved (Japan 9, US 10, EPO 8, UK 8, Germany 8, France 8) ,Middle 1)
 #### Curiosity, creativity, contribution, sense of responsibility
-・Initiation of TCP/IP, his business trips to IETF, standardization proposals and patents, giving back to the community (in-house, JANOG, etc.), commercialization and persistent standardization activities
+・Initiation of TCP/IP,  business trips to IETF, standardization proposals and patents, giving back to the community (in-house, JANOG, etc.), commercialization and persistent standardization activities
 
 
 ## Self-promotion
