@@ -16,7 +16,7 @@ After that, I opened Net Procedure Giken as a private business and am active the
 * Business description: Comprehensive electronics manufacturer
 * Capital: 324,625 million yen Sales: 3,589.7 billion yen (2020) Number of employees: 126,371 Listed on the First Section of the Tokyo Stock Exchange (as of March 2022)
 
-#### January 2019 ~ March 2022: Fujitsu Cloud Service Business Headquarters/DC/Cloud Service Business Headquarters/Net & Security Service Business Headquarters
+#### January 2019 ~ March 2022: Fujitsu Cloud Service Business Unit/DC & Cloud Service Business Unit/Network & Security Service Business Unit
 Examining cloud network infrastructure and improving the technical skills of engineers (holding study sessions)
 * Research on vendor solutions for OpenStack, Arista, Cisco, and Juniper, consider and propose network infrastructure configurations
 * Investigating white box switches and Cumulus Linux
@@ -26,7 +26,7 @@ Examining cloud network infrastructure and improving the technical skills of eng
 [Accomplishments/Evaluation]
 * Cloud requires a wide range of knowledge, but we utilized all the knowledge we had acquired to advance general and cross-sectional research and consideration.
 
-#### April 2014 - December 2018: Fujitsu Planning Headquarters/Next Generation Cloud Promotion Office/Digital Business Platform Business Headquarters/Cloud Service Business Headquarters
+#### April 2014 - December 2018: Fujitsu PLATFORM STRATEGIC PLANNING UNIT/INNOVATION FLATFORM DIVISION/Digital Business Platform Unit/Cloud Service Business Unit
 OpenStack research, standardization proposals for cloud-related technologies that I devised, software prototyping, demonstration experiments, and commercialization proposals
 * Research on OpenStack, lectured internally and at JANOG33.5, Internet Week 2014
 * Applied for patents for cloud multi-tenant technology (ME6E-FP) and multi-cloud-on-premise connection technology (ME6E-PR), proposed standardization to IETF, led software prototyping, demonstration experiment (successful), proposed commercialization, technology transfer, Released as open source
@@ -34,7 +34,7 @@ OpenStack research, standardization proposals for cloud-related technologies tha
 [Accomplishments/Evaluation]
 * Invention and demonstration of unique technology, technology transfer, and open sourcing
 
-#### January 2010 ~ March 2014: Fujitsu Cloud Service Infrastructure Development Office/Cloud Business Support Headquarters/Network Innovation Center
+#### January 2010 ~ March 2014: Fujitsu Cloud Service Stratefies Office/Cloud Service Infrastrucrure R&D Division/Network Business Innovation Center
 Patent application for 5 types of IPv4 to IPv6 transition technology, standardization proposal to IETF, software prototyping lead, demonstration experiment, conference presentation, practical application proposal
 * (1) Technology for accommodating multiple IPv4 networks in an IPv6 network (SA46T): Demonstration experiment with NICT's JGN2plus
 * (2) Technology that enables IPv4 address sharing (SA46T-AS): Demonstration experiment at NICT's StarBED
@@ -51,7 +51,7 @@ Patent application for 5 types of IPv4 to IPv6 transition technology, standardiz
 * Special Researcher, National Institute of Information and Communications Technology (NICT) Testbed Research and Development Promotion Center
 * PPE (Professional Product Engineer) Architect
 
-#### April 2007 ~ December 2009: Fujitsu Network Service Business Headquarters/Cloud Service Integration Office
+#### April 2007 ~ December 2009: Fujitsu Network Service Business Unit/Cloud Service Integration Office
 In charge of new business consideration, devised general-purpose load balancing technology
 * Participated in and supported his IMS/SIPv6 reference code development project in industry and academia.
 * Devised a general-purpose load balancing technology (MSLB) that does not depend on applications, filed a patent application, led software prototyping, proposed IETF standardization
@@ -59,7 +59,7 @@ In charge of new business consideration, devised general-purpose load balancing 
 [Accomplishments/Evaluation]
 * Devise and demonstrate unique technology
 
-#### December 2002 ~ March 2007: Fujitsu Network Business Headquarters/Product Business Planning Headquarters/Network Service Headquarters
+#### December 2002 ~ March 2007: Fujitsu Network Systems Group/Business Strategy & Planning, System Products/Network Service Unit
 Project proposals and architecture education for converting from hardware-centered development to software-centered development
 * Proposed a common OS development project for IP products, promoted development as a project leader, proposed and adopted product application
 * Instructor for in-house development leaders on architecture and development processes (2003-2006)
@@ -68,7 +68,7 @@ Project proposals and architecture education for converting from hardware-center
 * Prototype production of small router, completion of common OS and product application
 * Received the "New Technology Creation Project 2002 Excellence Award"
 
-#### April 1996 - November 2002: Fujitsu Network Development Headquarters/Network Business Headquarters/Network Business Headquarters (Router Development Division)
+#### April 1996 - November 2002: Fujitsu Network Division/Network Business Group/Network System Group (Router Development Division)
 As the person in charge of IPv6 development promotion, expanded the range of work such as support for Internet communities such as IETF, WIDE project, Interop, JANOG, etc., actively promoted promotion, and expanded personal networks both inside and outside the company.
 * Promoting IPv6 development: Promoting the creation of IPv6 Fujitsu specifications, supporting Interop Tokyo, promoting participation in interconnection tests, contributing to technical magazine FUJITSU, promoting internal IPv6 network construction, in-house training instructor, promoting the introduction of JGN for routers, servers and supercomputers, etc. Support for his IPv6 support for products from other departments
 * Attended IETF standardization meetings, grasped standardization trends, hosted in-house reporting sessions, and sponsored the 54th IETF Yokohama Conference, the first in Asia.
@@ -85,7 +85,7 @@ As the person in charge of IPv6 development promotion, expanded the range of wor
 *Keio University presented Fujitsu with a letter of appreciation for his KAME project.
 * Received the President's Award for ``Success in developing the de facto standard for the next generation Internet protocol IPv6''
 
-#### April 1992 - March 1996: Fujitsu Laboratories Optical Connect Promotion Office/Information Network Systems Research Department
+#### April 1992 - March 1996: Fujitsu Laboratories  Optical Networking Systems Lab/Computer Network Systems Lab
 We established ourselves as an independent research group focused on TCP/IP, conducted research on early Internet technology, acquired knowledge and information that was not available within the company through self-study, and solidified the foundations of the Internet era.
 * TCP/IP investigation, investigation and organization of his Internet-related information, dissemination of information on web server
 * Information Processing Interoperability Technology Association (INTAP) Ultra-high-speed network and distributed processing technology trend survey working group member
@@ -95,7 +95,7 @@ We established ourselves as an independent research group focused on TCP/IP, con
 [Accomplishments/Evaluation]
 * Understanding TCP/IP related information, understanding various protocols, contributing to business through Fujitsu router specifications, transferred to Fujitsu due to technology transfer
 
-#### April 1986 - March 1992: Fujitsu Laboratories Information and Communication Research Department/Optical Connect Promotion Office
+#### April 1986 - March 1992: Fujitsu Laboratories Computer Network Systems Lab/Optical Networking Systems Lab
 As a member of the development team, I was responsible for understanding computer networks and developing software, and solidified my foundation as an engineer.
 * Developed 3 types of test programs for commercialization of FACOM2890 Multimedia Highway (C language)
 * Compiling all interface specifications and developing firmware (C language) for the commercialization of digital multiplexing equipment (DMIX)
