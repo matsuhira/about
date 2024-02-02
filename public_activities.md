@@ -1,6 +1,9 @@
 
 ### public activities
 
+#### 2023/12/21: I-D OHT initial submit
+* Outer Header Translator<br>
+ https://datatracker.ietf.org/doc/draft-matsuhira-oht/
 
 #### 2017/12/20: JPNIC Newsletter
 * 第100回IETF報告 [第2弾] IPv6関連WG報告 ～6man、v6ops WG等～
