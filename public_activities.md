@@ -95,6 +95,7 @@ https://www.internetconference.org/ic2013/PDF/ic2013-paper04.pdf
 * IETF報告会(87thベルリン) IPv6関連<br>
 https://www.isoc.jp/materials/20130905/20130905_ipv6.pdf<br>
 https://www-old.isoc.jp/materials/20130905/20130905_ipv6.pdf<br>
+https://isoc.jp/activities/ietf_updates/85/
 
 #### 2013/9/3 : JPNIC Newsletter
 * 第87回IETF報告 [第2弾] IPv6関連WG報告 ～6man WG、softwire WG、behave WG、v6ops WG、sunset4 WGについて～<br>
