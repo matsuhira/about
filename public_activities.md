@@ -131,7 +131,8 @@ https://www.ietf.org/proceedings/86/slides/slides-86-behave-5.pdf
 
 #### 2013/2/28: APRICOT 2013 @ Singapore
 * Stateless automatic IPv4 over IPv6 Encapsulation / Decapsulation Technology (SA46T)<br>
-https://www.apricot.net/apricot2013/assets/sa46t-apricot2013_13629346921.pdf 
+https://www.apricot.net/apricot2013/assets/sa46t-apricot2013_13629346921.pdf<br>
+https://www.apricot.net/apricot2013/program/presentations/
  
  
 #### 2012/12/21: ISOC-JP IETF報告会
