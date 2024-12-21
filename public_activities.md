@@ -104,7 +104,8 @@ https://www.nic.ad.jp/ja/mailmagazine/backnumber/2013/vol1117.html
 #### 2013/9: FIT2013 (Forum on Information Technology 2013) @ 鳥取大学
 * RL-007 SA46T-AS: アドレス変換を用いずに IPv4 アドレス共有を実現するカプセル化技術 (L 分野: ネットワーク・セキュリティ, 査読付き論文)<br>
 情報科学技術フォーラム講演論文集 12 (4), 43-50 <br>
-https://ci.nii.ac.jp/naid/110009814013
+https://ci.nii.ac.jp/naid/110009814013<br>
+https://www.ipsj.or.jp/event/fit/fit2013/program/data/html/program/l.html
  
 #### 2013/7: 87th IETF Berlin
 * SA46T, SA46T-PR and SA46T-PT<br>
