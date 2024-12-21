@@ -212,6 +212,8 @@ https://pr.fujitsu.com/jp/news/2011/06/9-1.html
 https://testbed.nict.go.jp/jgn/jgn-x_archive/tbnw_wg/data/pdf/TBWG-10-01.pdf
 * 「INTEROP TOKYO 2011」への出展について<br>
 https://www.fujitsu.com/jp/group/fct/resources/news/press-releases/2011/0603.html
+* Best of Show Award<br>
+https://archive.interop.jp/2011/english/exhibition/index.html
 
 #### 2011/4/14: JANOG27.5 Interim Meeting @ 三井情報株式会社
 * sa46tを動かしました<br>
