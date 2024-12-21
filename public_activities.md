@@ -88,7 +88,8 @@ https://pr.fujitsu.com/jp/news/2013/12/11.html
 * SA46T-AT: SA46T アドレスを用いた IPv4-IPv6 変換技術<br>
 松平直樹， 上野幸杜， 堀場勝広， 中村修<br>
 インターネットコンファレンス論文集, 51-60 <br>
-https://www.internetconference.org/ic2013/PDF/ic2013-paper04.pdf
+https://www.internetconference.org/ic2013/PDF/ic2013-paper04.pdf<br>
+https://www.internetconference.org/ic2013/program.html
 
 
 #### 2013/9/5: ISOC-JP IETF報告会
