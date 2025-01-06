@@ -207,8 +207,9 @@ http://arkko.com/softwire/20110925-ietf-softwire-interim-beijing-sa46t.pdf
 
 #### 2011/7: 81st IETF Quebec
 * Motivation for developing SA46T<br>
-https://tools.ietf.org/agenda/81/slides/softwire-17.pdf 
- 
+https://tools.ietf.org/agenda/81/slides/softwire-17.pdf<br>
+https://www.ietf.org/proceedings/81/slides/softwire-17.pdf
+
 #### 2011/7/10: I-D SA46T motivation initial submit
 * Motivation for developing Stateless Automatic IPv4 over IPv6 Tunneling (SA46T)<br>
 https://datatracker.ietf.org/doc/draft-matsuhira-sa46t-motivation
