@@ -240,7 +240,8 @@ https://www.rbbtoday.com/article/2011/02/07/74129.html
 
 #### 2010/11: 79th IETF Beijing
 * sa46t and sa46t-as<br>
-https://tools.ietf.org/agenda/79/slides/softwire-14.pdf 
+https://tools.ietf.org/agenda/79/slides/softwire-14.pdf<br>
+https://www.ietf.org/proceedings/79/slides/softwire-14.pdf
  
 #### 2010/10/17: I-D SA46T-AS initial submit
 * Stateless Automatic IPv4 over IPv6 Tunneling with IPv4 Address Sharing<br>
