@@ -1,6 +1,14 @@
 
 ### public activities
 
+#### 2024/5/31: JANOG53.5
+* OHT: Outer Header TranslatorのIETF 6man WGへの提案<br>
+https://www.janog.gr.jp/meeting/janog53.5/doc/janog53.5_lt2_prd.pdf
+
+#### 2024/3/21: 119th IETF 6man WG
+* Outer Header Translator<br>
+https://datatracker.ietf.org/meeting/119/materials/slides-119-6man-outer-header-translator
+
 #### 2023/12/21: I-D OHT initial submit
 * Outer Header Translator<br>
  https://datatracker.ietf.org/doc/draft-matsuhira-oht/
