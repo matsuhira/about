@@ -1,6 +1,20 @@
 
 ### public activities
 
+#### 2025/5/23: ENOG86
+* マルチホーミングとPIアドレス集約<br>
+https://enog.jp/wordpress/wp-content/uploads/2025/05/20250523-ENOG86-mh-pia.pdf
+* ENOG86<br>
+https://enog.jp/archives/3072
+
+#### 2025/1/6: I-D OHT-MH initial submit
+* Outer Header Translator - multihoming
+https://datatracker.ietf.org/doc/draft-matsuhira-oht-mh/
+
+#### 2024/10/19: I-D PIA initial submit
+* Provider Independent Addresses Aggregation<br>
+https://datatracker.ietf.org/doc/draft-matsuhira-pia/
+
 #### 2024/5/31: JANOG53.5
 * OHT: Outer Header TranslatorのIETF 6man WGへの提案<br>
 https://www.janog.gr.jp/meeting/janog53.5/doc/janog53.5_lt2_prd.pdf
@@ -8,6 +22,12 @@ https://www.janog.gr.jp/meeting/janog53.5/doc/janog53.5_lt2_prd.pdf
 #### 2024/3/21: 119th IETF 6man WG
 * Outer Header Translator<br>
 https://datatracker.ietf.org/meeting/119/materials/slides-119-6man-outer-header-translator
+
+#### 2024/2/22: ENOG81
+* Outer Header Translatorのご紹介<br>
+https://drive.google.com/file/d/1Q3GXutROW62_tcFAK0pKDtmc2TugKX5n/view
+* ENOG81<br>
+https://enog.jp/archives/2847
 
 #### 2023/12/21: I-D OHT initial submit
 * Outer Header Translator<br>
